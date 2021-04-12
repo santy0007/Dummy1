@@ -30,7 +30,7 @@ public class Hw {
 			}
 			
 		}
-		System.out.println("This is main method");
+		System.out.println("This is main method1");
 
 	}
 
